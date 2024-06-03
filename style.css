@@ -8,6 +8,7 @@
   
   /* بدنه */
   body {
+    touch-action: none;
     background-color: #f4f4f4;
     color: #333;
     text-align: center;
@@ -19,6 +20,7 @@
     background-image: url('https://shut.ir/storage/image/2023/7/26/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%B2%D9%85%DB%8C%D9%86%D9%87-%D8%B1%D9%88%D8%B4%D9%86.webp');
     background-size: cover;
     background-position: center;
+    background-size: 120%;
     background-repeat: no-repeat;
   }
   
