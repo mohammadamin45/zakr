@@ -26,3 +26,7 @@ incrementBtn.addEventListener('click', () => {
   count++;
   updateCounter();
 });
+
+document.addEventListener('contextmenu', (event) => {
+  event.preventDefault();
+});
